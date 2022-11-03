@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\bin\Debug\Snake.exe.config
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\bin\Debug\Snake.exe
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\bin\Debug\Snake.pdb
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\obj\Debug\Snake.exe
+C:\Users\andre\Desktop\GB\Основы ООП\Snake\snake1.git\Snake\obj\Debug\Snake.pdb
